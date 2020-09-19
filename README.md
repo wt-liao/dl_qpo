@@ -1,2 +1,6 @@
 # dl_qpo
-search for QPO candidates using CNN
+Find for QPO candidates using CNN
+
+Hyper parameters seraching for batch size, number of epochs, and learning rate.
+Using tensorboard to inspect the result. 
+
